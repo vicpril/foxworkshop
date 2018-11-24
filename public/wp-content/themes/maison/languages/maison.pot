@@ -1,0 +1,3459 @@
+# Copyright (C) 2016 ApusTheme
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Maison 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/maison\n"
+"POT-Creation-Date: 2017-07-28 07:13:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comments.php:26
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:46
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:48 comments.php:49
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:55
+msgid "Name*"
+msgstr ""
+
+#: comments.php:59
+msgid "Email*"
+msgstr ""
+
+#: comments.php:63
+msgid "Website"
+msgstr ""
+
+#: comments.php:68
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:69
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-search.php:28 content-search.php:33 list_comments.php:18
+#: woocommerce/myaccount/my-address.php:47
+msgid "Edit"
+msgstr ""
+
+#: footer.php:30
+msgid ""
+"&copy; 2017 - Maison. All Rights Reserved. <br/> Powered by <a href=\"//"
+"apusthemes.com\">ApusThemes</a>"
+msgstr ""
+
+#: footer.php:45
+msgid "Top "
+msgstr ""
+
+#: functions.php:83
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:85
+msgid "Primary Menu Left"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary Menu Right"
+msgstr ""
+
+#: functions.php:275
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:277 functions.php:286
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: functions.php:284
+msgid "Header Socials"
+msgstr ""
+
+#: functions.php:293
+msgid "Blog left sidebar"
+msgstr ""
+
+#: functions.php:295 functions.php:305 functions.php:315
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:303
+msgid "Blog right sidebar"
+msgstr ""
+
+#: functions.php:313
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:323
+msgid "Shop Top Filter Sidebar"
+msgstr ""
+
+#: functions.php:336
+msgid "Apus Framework For Themes"
+msgstr ""
+
+#: functions.php:343
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:350
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:357
+msgid "Cmb2"
+msgstr ""
+
+#: functions.php:363
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:369
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:375
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:381
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: functions.php:387
+msgid "WooCommerce Quantity Increment"
+msgstr ""
+
+#: header.php:58
+msgid "Close"
+msgstr ""
+
+#: inc/classes/megamenu.php:114 inc/classes/mobilemenu.php:106
+msgid "New"
+msgstr ""
+
+#: inc/classes/megamenu.php:118 inc/classes/mobilemenu.php:110
+msgid "Hot"
+msgstr ""
+
+#: inc/classes/megamenu.php:122 inc/classes/mobilemenu.php:114
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: inc/customizer.php:48 inc/customizer.php:64 inc/customizer.php:69
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:118 inc/vendors/redux-framework/redux-config.php:485
+#: inc/vendors/visualcomposer/vc-map-theme.php:168
+#: inc/vendors/visualcomposer/vc-map-theme.php:850
+#: inc/vendors/woocommerce/woo-custom.php:33
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:129 inc/vendors/cmb2/footer.php:13
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Purple"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Blue"
+msgstr ""
+
+#: inc/functions-frontend.php:37
+msgid " / By: "
+msgstr ""
+
+#: inc/functions-frontend.php:60
+msgid "by:"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "0 comment"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "1 comment"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "% comments"
+msgstr ""
+
+#: inc/functions-frontend.php:97
+msgid "Tags: "
+msgstr ""
+
+#: inc/functions-frontend.php:156 inc/functions-frontend.php:163
+#: inc/functions-frontend.php:311
+msgid "The Blogs"
+msgstr ""
+
+#: inc/functions-frontend.php:176
+msgid "The Blog"
+msgstr ""
+
+#: inc/functions-frontend.php:200 inc/functions-frontend.php:301
+msgid "Search results for \""
+msgstr ""
+
+#: inc/functions-frontend.php:202 inc/functions-frontend.php:303
+msgid "Posts tagged \""
+msgstr ""
+
+#: inc/functions-frontend.php:208 inc/functions-frontend.php:309
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions-frontend.php:219
+msgid "Home"
+msgstr ""
+
+#: inc/functions-frontend.php:267
+msgid "Our Campaigns"
+msgstr ""
+
+#: inc/functions-frontend.php:269
+msgid "Our Events"
+msgstr ""
+
+#: inc/functions-frontend.php:307
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/functions-frontend.php:427
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:449
+msgid "Post navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:453
+msgid "Published In"
+msgstr ""
+
+#: inc/functions-frontend.php:455
+msgid "Previous Post"
+msgstr ""
+
+#: inc/functions-frontend.php:456
+msgid "Next Post"
+msgstr ""
+
+#: inc/functions-frontend.php:471
+msgid "<"
+msgstr ""
+
+#: inc/functions-frontend.php:472
+msgid ">"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:917
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+#: inc/plugins/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3249
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3042
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:399
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1211
+#: inc/plugins/class-tgm-plugin-activation.php:3038
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/plugins/class-tgm-plugin-activation.php:2072
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2363
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2366
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2382
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2385
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2405
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2409
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2411
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2417
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2420
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2423
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/class-tgm-plugin-activation.php:2432
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2478
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2486
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2580
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2588
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2600
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2637
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2643
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2644
+#: woocommerce/myaccount/my-orders.php:36
+#: woocommerce/myaccount/my-orders.php:57
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2698
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2704
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2774
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2807
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2813
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2816
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3248
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/class-tgm-plugin-activation.php:3591
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3593
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3608
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/samples/sample-data.php:10
+msgid "Home 1"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:123
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "/ By: "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:281
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/vendors/cmb2/footer.php:8
+msgid "Footer Style"
+msgstr ""
+
+#: inc/vendors/cmb2/footer.php:12
+msgid "Lighting"
+msgstr ""
+
+#: inc/vendors/cmb2/footer.php:14
+msgid "Boxed Light"
+msgstr ""
+
+#: inc/vendors/cmb2/footer.php:21 inc/vendors/cmb2/page.php:96
+msgid "Display Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:13 inc/vendors/cmb2/page.php:14
+msgid "Global Setting"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:19
+msgid "Select Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:23
+msgid "Main Content Only"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:24
+#: inc/vendors/redux-framework/redux-config.php:560
+#: inc/vendors/redux-framework/redux-config.php:561
+msgid "Left Sidebar - Main Content"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:25
+#: inc/vendors/redux-framework/redux-config.php:565
+#: inc/vendors/redux-framework/redux-config.php:566
+msgid "Main Content - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:31
+#: inc/vendors/redux-framework/redux-config.php:243
+#: inc/vendors/redux-framework/redux-config.php:323
+#: inc/vendors/redux-framework/redux-config.php:544
+#: inc/vendors/redux-framework/redux-config.php:685
+msgid "Is Full Width?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:34 inc/vendors/cmb2/page.php:55
+msgid "No"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:35 inc/vendors/cmb2/page.php:56
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:41
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:47
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:53
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:63
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:68
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:73
+#: inc/vendors/redux-framework/redux-config.php:112
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:74
+#: inc/vendors/redux-framework/redux-config.php:113
+msgid "Choose a header for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:81
+#: inc/vendors/redux-framework/redux-config.php:157
+msgid "Footer Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:82
+#: inc/vendors/redux-framework/redux-config.php:158
+msgid "Choose a footer for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:89
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:90 inc/vendors/visualcomposer/vc-map-posts.php:80
+#: inc/vendors/visualcomposer/vc-map-theme.php:52
+#: inc/vendors/visualcomposer/vc-map-theme.php:178
+#: inc/vendors/visualcomposer/vc-map-theme.php:214
+#: inc/vendors/visualcomposer/vc-map-theme.php:251
+#: inc/vendors/visualcomposer/vc-map-theme.php:296
+#: inc/vendors/visualcomposer/vc-map-theme.php:376
+#: inc/vendors/visualcomposer/vc-map-theme.php:415
+#: inc/vendors/visualcomposer/vc-map-theme.php:544
+#: inc/vendors/visualcomposer/vc-map-theme.php:583
+#: inc/vendors/visualcomposer/vc-map-theme.php:674
+#: inc/vendors/visualcomposer/vc-map-theme.php:742
+#: inc/vendors/visualcomposer/vc-map-theme.php:789
+#: inc/vendors/visualcomposer/vc-map-theme.php:859
+#: inc/vendors/visualcomposer/vc-map-theme.php:935
+#: inc/vendors/visualcomposer/vc-map-theme.php:982
+#: inc/vendors/visualcomposer/vc-map-theme.php:1040
+#: inc/vendors/visualcomposer/vc-map-theme.php:1109
+#: inc/vendors/woocommerce/vc-map.php:119
+#: inc/vendors/woocommerce/vc-map.php:194
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:52
+msgid "1 Column"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:53
+msgid "2 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:54
+msgid "3 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:55
+msgid "4 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:56
+msgid "6 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:64
+msgid "Favicon Upload"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:66
+msgid "Upload a 16px x 16px .png or .gif image that will be your favicon."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:72
+msgid "Preload Website"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:78
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:84
+msgid "Google Map API Key"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:89
+msgid "General"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:95
+#: inc/vendors/redux-framework/redux-config.php:895
+msgid "Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:100
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:101
+#: inc/vendors/redux-framework/redux-config.php:107
+msgid "Upload a .png or .gif image that will be your logo."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:106
+msgid "Mobile Logo Upload"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:119
+msgid "Keep Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:125
+msgid "Search Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:131
+msgid "Enable Autocompleate Search"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:138
+msgid "Show Cart Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:144
+msgid "Show Settings Menu"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:152
+#: inc/vendors/redux-framework/redux-config.php:950
+msgid "Footer"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:164
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:169
+msgid "Logo Copyright For Footer Default"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:170
+msgid "Logo Copyright of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:177
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:178
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:187
+#: inc/vendors/redux-framework/redux-config.php:292
+msgid "Blog"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:192
+#: inc/vendors/redux-framework/redux-config.php:418
+#: inc/vendors/redux-framework/redux-config.php:602
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:196
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:197
+msgid "The breadcrumbs background color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:205
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:206
+msgid "Upload a .jpg or .png image that will be your breadcrumbs."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:213
+msgid "Blog & Post Archives"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:219
+#: inc/vendors/visualcomposer/vc-map-theme.php:720
+msgid "Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:220
+#: inc/vendors/redux-framework/redux-config.php:300
+msgid "Select the variation you want to apply on your store."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:223
+#: inc/vendors/redux-framework/redux-config.php:224
+#: inc/vendors/redux-framework/redux-config.php:303
+#: inc/vendors/redux-framework/redux-config.php:304
+#: inc/vendors/redux-framework/redux-config.php:665
+#: inc/vendors/redux-framework/redux-config.php:666
+msgid "Main Only"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:228
+#: inc/vendors/redux-framework/redux-config.php:229
+#: inc/vendors/redux-framework/redux-config.php:308
+#: inc/vendors/redux-framework/redux-config.php:309
+#: inc/vendors/redux-framework/redux-config.php:670
+#: inc/vendors/redux-framework/redux-config.php:671
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:233
+#: inc/vendors/redux-framework/redux-config.php:234
+#: inc/vendors/redux-framework/redux-config.php:313
+#: inc/vendors/redux-framework/redux-config.php:314
+#: inc/vendors/redux-framework/redux-config.php:675
+#: inc/vendors/redux-framework/redux-config.php:676
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:249
+#: inc/vendors/redux-framework/redux-config.php:575
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:250
+#: inc/vendors/redux-framework/redux-config.php:330
+#: inc/vendors/redux-framework/redux-config.php:576
+#: inc/vendors/redux-framework/redux-config.php:692
+msgid "Choose a sidebar for left sidebar."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:256
+#: inc/vendors/redux-framework/redux-config.php:582
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:257
+#: inc/vendors/redux-framework/redux-config.php:337
+#: inc/vendors/redux-framework/redux-config.php:583
+#: inc/vendors/redux-framework/redux-config.php:699
+msgid "Choose a sidebar for right sidebar."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:264
+msgid "Display Mode"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:266
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:267
+msgid "Mansory Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:268
+msgid "List Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:275
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:282
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:283
+msgid "This featured for the site is using Visual Composer."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:284
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height) ."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:299
+msgid "Archive Blog Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:329
+msgid "Single Blog Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:336
+msgid "Single Blog Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:343
+#: inc/vendors/redux-framework/redux-config.php:614
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:349
+msgid "Show Releated Posts"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:355
+msgid "Number of related posts to show"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:366
+msgid "Releated Blogs Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:386
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:392
+msgid "Brands Setting"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:397
+msgid "Brand Attribute"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:398
+msgid "Choose a product attribute that will be used as brands"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:399
+msgid ""
+"When you have choosed a brand attribute, you will be able to add brand image "
+"to the attributes"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:407
+msgid "Product Archives"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:413
+#: inc/vendors/redux-framework/redux-config.php:597
+msgid "General Setting"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:424
+msgid "Products Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:425
+#: inc/vendors/redux-framework/redux-config.php:438
+msgid "Choose a default layout archive product."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:427
+#: inc/vendors/visualcomposer/vc-map-posts.php:9
+#: inc/vendors/visualcomposer/vc-map-theme.php:282
+#: inc/vendors/visualcomposer/vc-map-theme.php:1081
+#: inc/vendors/woocommerce/functions.php:242
+#: inc/vendors/woocommerce/vc-map.php:91
+#: inc/vendors/woocommerce/vc-map.php:185
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:428
+msgid "Mansory 1"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:429
+msgid "Mansory 2"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:430
+#: inc/vendors/redux-framework/redux-config.php:529
+#: inc/vendors/visualcomposer/vc-map-posts.php:11
+#: inc/vendors/woocommerce/functions.php:244
+#: inc/vendors/woocommerce/vc-map.php:186
+msgid "List"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:437
+msgid "Item Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:440
+#: inc/vendors/visualcomposer/vc-map-theme.php:406
+msgid "Style 1"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:441
+#: inc/vendors/visualcomposer/vc-map-theme.php:407
+msgid "Style 2"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:449
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:459
+msgid "Product Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:466
+msgid "Show Quick View"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:472
+msgid "Product Image"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:474
+msgid "Main Image"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:475
+msgid "Swap Image"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:476
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:483
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:486
+msgid "Load More Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:487
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:495
+msgid "Top Sidebar Setting"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:500
+msgid "Show Top Sidebar?"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:506
+msgid "Show Top Filter Sidebar?"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:513
+msgid "Show Top Orderby?"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:520
+msgid "Show Top Categories?"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:527
+msgid "Top Categories Type"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:530
+msgid "Dropdown"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:539
+#: inc/vendors/redux-framework/redux-config.php:655
+msgid "Sidebar Setting"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:551
+msgid "Archive Product Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:552
+msgid "Select the layout you want to apply on your archive product page."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:555
+#: inc/vendors/redux-framework/redux-config.php:556
+msgid "Main Content"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:591
+msgid "Single Product"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:608
+msgid "Show Next/Previus Product"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:620
+msgid "Show Product Review Tab"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:626
+msgid "Show Products Releated"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:632
+msgid "Show Products upsells"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:637
+msgid "Number of related/upsells products to show"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:647
+msgid "Releated Products Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:661
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:662
+msgid "Select the layout you want to apply on your Single Product Page."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:691
+msgid "Single Product Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:698
+msgid "Single Product Right Sidebar"
+msgstr ""
+
+#. #-#-#-#-#  maison.pot (Maison 1.0.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/vendors/redux-framework/redux-config.php:708
+msgid "404 Page"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:713
+#: inc/vendors/visualcomposer/vc-map-posts.php:25
+#: inc/vendors/visualcomposer/vc-map-theme.php:69
+#: inc/vendors/visualcomposer/vc-map-theme.php:193
+#: inc/vendors/visualcomposer/vc-map-theme.php:230
+#: inc/vendors/visualcomposer/vc-map-theme.php:265
+#: inc/vendors/visualcomposer/vc-map-theme.php:309
+#: inc/vendors/visualcomposer/vc-map-theme.php:390
+#: inc/vendors/visualcomposer/vc-map-theme.php:435
+#: inc/vendors/visualcomposer/vc-map-theme.php:558
+#: inc/vendors/visualcomposer/vc-map-theme.php:597
+#: inc/vendors/visualcomposer/vc-map-theme.php:689
+#: inc/vendors/visualcomposer/vc-map-theme.php:756
+#: inc/vendors/visualcomposer/vc-map-theme.php:803
+#: inc/vendors/visualcomposer/vc-map-theme.php:825
+#: inc/vendors/visualcomposer/vc-map-theme.php:874
+#: inc/vendors/visualcomposer/vc-map-theme.php:905
+#: inc/vendors/visualcomposer/vc-map-theme.php:951
+#: inc/vendors/visualcomposer/vc-map-theme.php:966
+#: inc/vendors/visualcomposer/vc-map-theme.php:1010
+#: inc/vendors/visualcomposer/vc-map-theme.php:1054
+#: inc/vendors/woocommerce/vc-map.php:68
+#: inc/vendors/woocommerce/vc-map.php:138 inc/widgets/woo-price-filter.php:19
+#: inc/widgets/woo-product-sorting.php:20
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:719
+msgid "SubTitle"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:725
+#: inc/vendors/visualcomposer/vc-map-theme.php:33
+#: inc/vendors/visualcomposer/vc-map-theme.php:82
+#: inc/vendors/visualcomposer/vc-map-theme.php:237
+#: inc/vendors/visualcomposer/vc-map-theme.php:316
+#: inc/vendors/visualcomposer/vc-map-theme.php:397
+#: inc/vendors/visualcomposer/vc-map-theme.php:443
+#: inc/vendors/visualcomposer/vc-map-theme.php:713
+#: inc/vendors/visualcomposer/vc-map-theme.php:763
+#: inc/vendors/visualcomposer/vc-map-theme.php:831
+#: inc/vendors/visualcomposer/vc-map-theme.php:911
+#: inc/vendors/visualcomposer/vc-map-theme.php:972
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:734
+#: inc/vendors/visualcomposer/vc-map-theme.php:40
+#: inc/vendors/visualcomposer/vc-map-theme.php:165
+#: inc/vendors/visualcomposer/vc-map-theme.php:403
+#: inc/vendors/visualcomposer/vc-map-theme.php:924
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:737
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:738
+#: inc/vendors/redux-framework/redux-config.php:745
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:744
+msgid "Second Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:751
+msgid "Button Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:752
+msgid "Button color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:758
+msgid "Button Hover Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:759
+msgid "Button Hover color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:768
+msgid "Typography"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:771
+msgid "Font Source"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:772
+msgid "Choose the Font Source"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:784
+msgid "Google Code"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:785
+msgid "Paste the provided Google Code"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:793
+msgid "Main Font"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:797
+#: inc/vendors/redux-framework/redux-config.php:835
+msgid "Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:798
+msgid "Pick the Main Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:817
+#: inc/vendors/redux-framework/redux-config.php:855
+msgid "Google Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:818
+msgid "Enter your Google Font Name for the theme's Main Typography"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:819
+#: inc/vendors/redux-framework/redux-config.php:857
+msgid "e.g.: open sans"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:830
+msgid " Secondary Font"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:836
+msgid "Pick the Secondary Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:856
+msgid "Enter your Google Font Name for the theme's Secondary Typography"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:867
+msgid "Top Bar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:872
+#: inc/vendors/redux-framework/redux-config.php:900
+#: inc/vendors/redux-framework/redux-config.php:955
+#: inc/vendors/redux-framework/redux-config.php:998
+msgid "Background"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:878
+#: inc/vendors/redux-framework/redux-config.php:906
+#: inc/vendors/redux-framework/redux-config.php:968
+#: inc/vendors/redux-framework/redux-config.php:1004
+msgid "Text Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:885
+#: inc/vendors/redux-framework/redux-config.php:913
+#: inc/vendors/redux-framework/redux-config.php:933
+#: inc/vendors/redux-framework/redux-config.php:975
+#: inc/vendors/redux-framework/redux-config.php:1011
+msgid "Link Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:920
+#: inc/vendors/redux-framework/redux-config.php:940
+msgid "Link Color Active"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:930
+msgid "Main Menu"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:961
+msgid "Heading Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:982
+#: inc/vendors/redux-framework/redux-config.php:1018
+msgid "Link Color Hover"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:993
+msgid "Copyright"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1030
+msgid "Social Media"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1035
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1041
+msgid "Enable twitter Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1047
+msgid "Enable linkedin Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1053
+msgid "Enable tumblr Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1059
+msgid "Enable google plus Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1065
+msgid "Enable pinterest Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1073
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1076
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1077
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1083
+msgid "Custom JavaScript Code"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1084
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1092
+msgid "Import / Export"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1093
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:1134
+#: inc/vendors/redux-framework/redux-config.php:1135
+msgid "Theme Options"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:10
+msgid "Grid 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:12
+#: inc/vendors/visualcomposer/vc-map-theme.php:281
+#: inc/vendors/visualcomposer/vc-map-theme.php:1082
+#: inc/vendors/woocommerce/vc-map.php:187
+msgid "Carousel"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:16
+msgid "Apus Grid Posts"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:19
+msgid "Apus Post"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:20
+msgid "Create Post having blog styles"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:27
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:33
+msgid "Grids content"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:39
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:43
+msgid "Show Pagination?"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:45
+msgid "Enables to show paginations to next new page."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:46
+msgid "Yes, to show pagination"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:50
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:56
+#: inc/vendors/visualcomposer/vc-map-theme.php:278
+#: inc/vendors/visualcomposer/vc-map-theme.php:571
+#: inc/vendors/visualcomposer/vc-map-theme.php:1078
+#: inc/vendors/woocommerce/vc-map.php:88
+#: inc/vendors/woocommerce/vc-map.php:182
+msgid "Layout Type"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:62
+msgid "Style Type"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:65
+#: inc/vendors/visualcomposer/vc-map-theme.php:733
+msgid "Border Dasher"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:66
+#: inc/vendors/visualcomposer/vc-map-theme.php:734
+msgid "Border Solid"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:72
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:74
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height) . "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-posts.php:78
+#: inc/vendors/visualcomposer/vc-map-theme.php:50
+#: inc/vendors/visualcomposer/vc-map-theme.php:176
+#: inc/vendors/visualcomposer/vc-map-theme.php:212
+#: inc/vendors/visualcomposer/vc-map-theme.php:249
+#: inc/vendors/visualcomposer/vc-map-theme.php:294
+#: inc/vendors/visualcomposer/vc-map-theme.php:374
+#: inc/vendors/visualcomposer/vc-map-theme.php:413
+#: inc/vendors/visualcomposer/vc-map-theme.php:542
+#: inc/vendors/visualcomposer/vc-map-theme.php:581
+#: inc/vendors/visualcomposer/vc-map-theme.php:672
+#: inc/vendors/visualcomposer/vc-map-theme.php:740
+#: inc/vendors/visualcomposer/vc-map-theme.php:787
+#: inc/vendors/visualcomposer/vc-map-theme.php:857
+#: inc/vendors/visualcomposer/vc-map-theme.php:933
+#: inc/vendors/visualcomposer/vc-map-theme.php:980
+#: inc/vendors/visualcomposer/vc-map-theme.php:1038
+#: inc/vendors/visualcomposer/vc-map-theme.php:1107
+#: inc/vendors/woocommerce/vc-map.php:117
+#: inc/vendors/woocommerce/vc-map.php:192
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:9
+msgid "New style attribute"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:18
+msgid "Apus Widget Heading"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:21
+#: inc/vendors/visualcomposer/vc-map-theme.php:62
+#: inc/vendors/visualcomposer/vc-map-theme.php:189
+#: inc/vendors/visualcomposer/vc-map-theme.php:223
+#: inc/vendors/visualcomposer/vc-map-theme.php:261
+#: inc/vendors/visualcomposer/vc-map-theme.php:305
+#: inc/vendors/visualcomposer/vc-map-theme.php:386
+#: inc/vendors/visualcomposer/vc-map-theme.php:431
+#: inc/vendors/visualcomposer/vc-map-theme.php:554
+#: inc/vendors/visualcomposer/vc-map-theme.php:593
+#: inc/vendors/visualcomposer/vc-map-theme.php:685
+#: inc/vendors/visualcomposer/vc-map-theme.php:752
+#: inc/vendors/visualcomposer/vc-map-theme.php:799
+#: inc/vendors/visualcomposer/vc-map-theme.php:870
+#: inc/vendors/visualcomposer/vc-map-theme.php:947
+#: inc/vendors/visualcomposer/vc-map-theme.php:1006
+#: inc/vendors/visualcomposer/vc-map-theme.php:1050
+msgid "Apus Elements"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:22
+#: inc/vendors/visualcomposer/vc-map-theme.php:63
+msgid "Create title for one Widget"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:26
+#: inc/vendors/visualcomposer/vc-map-theme.php:67
+#: inc/vendors/visualcomposer/vc-map-theme.php:228
+msgid "Widget title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:28
+#: inc/vendors/visualcomposer/vc-map-theme.php:70
+#: inc/vendors/visualcomposer/vc-map-theme.php:231
+msgid "Enter heading title."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:36
+#: inc/vendors/visualcomposer/vc-map-theme.php:85
+#: inc/vendors/visualcomposer/vc-map-theme.php:240
+#: inc/vendors/visualcomposer/vc-map-theme.php:766
+msgid "Enter description for title."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:43
+msgid "Default Center"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:44
+msgid "Small Center"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:59
+msgid "Apus Widget Call To Action"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:75
+msgid "Sub title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:77
+msgid "Enter Sub title."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:90
+msgid "Text Button 1"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:92
+#: inc/vendors/visualcomposer/vc-map-theme.php:130
+msgid "Text Button"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:98
+msgid " Link Button 1"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:100
+msgid "Link Button 1"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:105
+#: inc/vendors/visualcomposer/vc-map-theme.php:143
+msgid "Button Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:108
+#: inc/vendors/visualcomposer/vc-map-theme.php:146
+#: inc/vendors/visualcomposer/vc-map-theme.php:723
+msgid "Default "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:109
+#: inc/vendors/visualcomposer/vc-map-theme.php:147
+msgid "Primary "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:110
+#: inc/vendors/visualcomposer/vc-map-theme.php:148
+msgid "Success "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:111
+#: inc/vendors/visualcomposer/vc-map-theme.php:149
+msgid "Info "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:112
+#: inc/vendors/visualcomposer/vc-map-theme.php:150
+msgid "Warning "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:113
+#: inc/vendors/visualcomposer/vc-map-theme.php:151
+msgid "Theme Color "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:114
+msgid "Theme Gradient Color "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:115
+#: inc/vendors/visualcomposer/vc-map-theme.php:152
+msgid "Second Color "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:116
+#: inc/vendors/visualcomposer/vc-map-theme.php:153
+msgid "Danger "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:117
+#: inc/vendors/visualcomposer/vc-map-theme.php:154
+msgid "Pink "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:118
+#: inc/vendors/visualcomposer/vc-map-theme.php:155
+msgid "White Gradient "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:119
+#: inc/vendors/visualcomposer/vc-map-theme.php:156
+msgid "Primary Outline"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:120
+#: inc/vendors/visualcomposer/vc-map-theme.php:157
+msgid "White Outline "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:121
+#: inc/vendors/visualcomposer/vc-map-theme.php:158
+msgid "Theme Outline "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:128
+msgid "Text Button 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:136
+msgid " Link Button 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:138
+msgid "Link Button 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:169
+#: inc/vendors/visualcomposer/vc-map-theme.php:1032
+msgid "Center"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:185
+msgid "Apus Counter"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:188
+msgid "Counting number with your term"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:200
+#: inc/vendors/visualcomposer/vc-map-theme.php:272
+#: inc/vendors/visualcomposer/vc-map-theme.php:565
+#: inc/vendors/visualcomposer/vc-map-theme.php:1066
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:206
+msgid "Color Number"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:220
+msgid "Apus Banner CountDown"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:224
+msgid "Show CountDown with banner"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:244
+msgid "Date Expired"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:257
+msgid "Apus Brands"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:260
+msgid "Display brands on front end"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:288
+#: inc/vendors/visualcomposer/vc-map-theme.php:666
+#: inc/vendors/visualcomposer/vc-map-theme.php:701
+#: inc/vendors/woocommerce/vc-map.php:97
+#: inc/vendors/woocommerce/vc-map.php:162
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:302
+msgid "Apus Socials link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:304
+msgid "Show socials link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:322
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:329
+msgid "Twitter Page URL"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:336
+msgid "Youtube Page URL"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:343
+msgid "Pinterest Page URL"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:350
+msgid "Google Plus Page URL"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:357
+msgid "Instagram Page URL"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:364
+#: inc/vendors/visualcomposer/vc-map-theme.php:1026
+#: inc/vendors/woocommerce/vc-map.php:173
+msgid "Align"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:367
+#: inc/vendors/visualcomposer/vc-map-theme.php:1030
+#: inc/vendors/woocommerce/vc-map.php:176 inc/widgets/vertical_menu.php:54
+msgid "Left"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:368
+#: inc/vendors/visualcomposer/vc-map-theme.php:1031
+#: inc/vendors/woocommerce/vc-map.php:177 inc/widgets/vertical_menu.php:55
+msgid "Right"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:382
+msgid "Apus Newsletter"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:385
+msgid "Show newsletter form"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:408
+msgid "Style 3"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:420
+msgid "Choose a map style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:428
+msgid "Apus Google Map"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:430
+msgid "Diplay Google Map"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:448
+msgid "Location"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:454
+msgid "Latitude Longitude"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:460
+msgid "Map height"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:466
+msgid "Map Zoom"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:472
+msgid "Map Type"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:475
+msgid "roadmap"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:476
+msgid "hybrid"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:477
+msgid "satellite"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:478
+msgid "terrain"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:483
+msgid "Custom Marker Icon"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:488
+msgid "Custom Map Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:494
+msgid "Contact Infomations"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:501
+#: inc/vendors/visualcomposer/vc-map-theme.php:525
+#: inc/vendors/visualcomposer/vc-map-theme.php:836
+#: inc/vendors/visualcomposer/vc-map-theme.php:895
+msgid "Material Design Icon and Awesome Icon"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:504
+#: inc/vendors/visualcomposer/vc-map-theme.php:528
+#: inc/vendors/visualcomposer/vc-map-theme.php:839
+msgid ""
+"This support display icon from Material Design and Awesome Icon, Please click"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:506
+#: inc/vendors/visualcomposer/vc-map-theme.php:530
+#: inc/vendors/visualcomposer/vc-map-theme.php:841
+#: inc/vendors/visualcomposer/vc-map-theme.php:900
+msgid "here to see the list"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:511
+#: inc/vendors/visualcomposer/vc-map-theme.php:625
+msgid "Short Description"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:518
+msgid "Socials Settings"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:535
+msgid "Url"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:550
+msgid "Apus Testimonials"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:552
+msgid "Display Testimonials In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:574
+msgid "Layout 1 "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:575
+msgid "Layout 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:589
+msgid "Apus Our Team"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:591
+msgid "Display Our Team In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:604
+msgid "Sub Title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:611
+#: inc/vendors/visualcomposer/vc-map-theme.php:810
+#: inc/vendors/visualcomposer/vc-map-theme.php:881
+#: inc/vendors/visualcomposer/vc-map-theme.php:958
+msgid "Members Settings"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:619
+#: woocommerce/single-product-reviews.php:77
+#: woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:630
+#: inc/vendors/visualcomposer/vc-map-theme.php:820
+#: inc/vendors/visualcomposer/vc-map-theme.php:891
+#: inc/vendors/woocommerce/woo-custom.php:119
+#: inc/vendors/woocommerce/woo-custom.php:129
+msgid "Image"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:637
+#: vc_templates/apus_socials_link.php:6
+msgid "Facebook"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:644
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:651
+msgid "Google plus Link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:658
+msgid "Linkin Link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:681
+msgid "Apus Gallery"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:683
+msgid "Display Gallery In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:696
+msgid "Images"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:707
+msgid "Row"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:716
+msgid "This field is used for Style 2."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:724
+msgid "Small "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:730
+msgid "Style Next and Preview"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:748
+msgid "Apus Video"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:750
+msgid "Display Video In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:770
+msgid "Icon Play Image"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:775
+msgid "Youtube Video Link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:780
+msgid "Link Button"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:782
+msgid "Link Button Join Us!"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:795
+msgid "Apus Features Box"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:797
+#: inc/vendors/visualcomposer/vc-map-theme.php:868
+msgid "Display Features In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:817
+#: inc/vendors/visualcomposer/vc-map-theme.php:888
+msgid "Image for box."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:847
+msgid "Style Layout"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:851
+msgid "Right "
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:866
+msgid "Apus Information Box"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:898
+msgid "This support display icon from Ionicons and Awesome Icon, Please click"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:918
+#: inc/vendors/visualcomposer/vc-map-theme.php:1072
+msgid "Number Columns"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:927
+msgid "Default Box"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:943
+msgid "Apus FAQ Box"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:945
+msgid "Display FAQ In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1002
+msgid "Apus Custom Menu"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1005
+msgid "Show Custom Menu"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1017
+msgid "Menu"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1020
+msgid ""
+"Custom menus not found. Please visit Appearance > Menus page to create new "
+"menu."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1020
+msgid "Select menu to display."
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1029
+msgid "Inherit"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1046
+msgid "Apus Instagram"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1048
+msgid "Display Instagram In FrontEnd"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1061
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1087
+msgid "Photo size"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1090
+#: inc/vendors/woocommerce/woo-custom.php:75
+#: inc/vendors/woocommerce/woo-custom.php:85
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1091
+msgid "Small"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1092
+msgid "Large"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1093
+msgid "Original"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1098
+msgid "Open links in"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1101
+msgid "Current window (_self)"
+msgstr ""
+
+#: inc/vendors/visualcomposer/vc-map-theme.php:1102
+msgid "New window (_blank)"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:183
+msgid "Unable to find any products that match the currenty query"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:198
+msgid " <span class=\"count\"> %d  </span> "
+msgid_plural " <span class=\"count\"> %d </span> "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/woocommerce/functions.php:243
+#: inc/vendors/woocommerce/vc-map.php:92
+msgid "Mansory"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:407
+#: inc/vendors/woocommerce/functions.php:476
+#: inc/vendors/woocommerce/functions.php:519
+msgid "Placeholder"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:619
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:623
+msgid "Wishlisted"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:658
+msgid "View More"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:659
+#: vc_templates/apus_categoriestabs.php:46
+msgid "All Products Loaded"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:689
+msgid "Close (Esc)"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:690
+msgid "Share"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:691
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:692
+msgid "Zoom in/out"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:704
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:705
+msgid "Next (arrow right)"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:724
+msgid "Next"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:738
+msgid "Prev"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:769
+#: inc/vendors/woocommerce/functions.php:879
+#: inc/widgets/woo-price-filter.php:117 inc/widgets/woo-price-filter.php:119
+msgid "All"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:6
+msgid " --- Choose a Category --- "
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:40
+msgid "Recent Products"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:41
+msgid "Best Selling"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:42
+msgid "Featured Products"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:43
+msgid "Top Rate"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:44
+msgid "On Sale"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:45
+msgid "Recent Review"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:49
+msgid "Apus Products Categories Tabs "
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:52
+#: inc/vendors/woocommerce/vc-map.php:128
+msgid "Apus Woocommerce"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:53
+msgid "Display products categories in Tabs"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:57
+msgid "Categories Tabs"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:62
+#: inc/vendors/woocommerce/vc-map.php:143
+msgid "Category"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:75
+msgid "Get Products By"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:81
+msgid "Number Products"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:84
+msgid "Number products per page to show"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:107
+msgid "Show Load More"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:112
+#: inc/vendors/woocommerce/vc-map.php:168
+msgid "Show Number Products"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:125
+msgid "Apus Category Banners "
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:129
+msgid "Display category banner"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:133
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:149
+msgid "Category Image"
+msgstr ""
+
+#: inc/vendors/woocommerce/vc-map.php:154
+msgid "Button text"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:34
+msgid "Popularity"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:35 inc/widgets/top_rate.php:56
+msgid "Average rating"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:36
+msgid "Newness"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:37
+msgid "Price: Low to High"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:38
+msgid "Price: High to Low"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:102
+msgid "Add"
+msgstr ""
+
+#: inc/vendors/woocommerce/woo-custom.php:103
+#: woocommerce/wishlist-view.php:157
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/contact-info.php:7
+msgid "Apus Contact Info Widget"
+msgstr ""
+
+#: inc/widgets/contact-info.php:8
+msgid "Show Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-info.php:40 inc/widgets/contact-info.php:60
+#: inc/widgets/contact-info.php:82
+msgid "Icon:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:53
+msgid "Address Content:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:73
+msgid "Phone Content:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:95
+msgid "Email Content:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:7
+msgid "Apus Custom Menu Widget"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:8
+msgid "Show custom menu"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:40 inc/widgets/popup_newsletter.php:32
+#: inc/widgets/posts.php:36 inc/widgets/recent_comment.php:36
+#: inc/widgets/recent_post.php:32 inc/widgets/search.php:30
+#: inc/widgets/single_image.php:39 inc/widgets/socials.php:43
+#: inc/widgets/vertical_menu.php:37 inc/widgets/video.php:34
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:45
+msgid "Menu:"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:7
+msgid "Apus Popup Newsletter Widget"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:8
+msgid "Show Popup Newsletter"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:38 inc/widgets/single_image.php:43
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:42 inc/widgets/single_image.php:47
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/posts.php:9
+msgid "Apus Posts Widget"
+msgstr ""
+
+#: inc/widgets/posts.php:41
+msgid "Posts:"
+msgstr ""
+
+#: inc/widgets/recent_comment.php:7
+msgid "Apus Recent Comments Widget"
+msgstr ""
+
+#: inc/widgets/recent_comment.php:8
+msgid "Show list of recent comments"
+msgstr ""
+
+#: inc/widgets/recent_comment.php:25
+msgid "Latest Post"
+msgstr ""
+
+#: inc/widgets/recent_comment.php:40
+msgid "Num Comments:"
+msgstr ""
+
+#: inc/widgets/recent_post.php:7
+msgid "Apus Recent Posts Widget"
+msgstr ""
+
+#: inc/widgets/recent_post.php:8
+msgid "Show list of recent post"
+msgstr ""
+
+#: inc/widgets/recent_post.php:37 inc/widgets/search.php:35
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/recent_post.php:49
+msgid "Num Posts:"
+msgstr ""
+
+#: inc/widgets/search.php:7
+msgid "Apus Search Widget"
+msgstr ""
+
+#: inc/widgets/search.php:8
+msgid "Show search form in sidebar"
+msgstr ""
+
+#: inc/widgets/single_image.php:7
+msgid "Apus Single Image Widget"
+msgstr ""
+
+#: inc/widgets/single_image.php:8
+msgid "Show single image"
+msgstr ""
+
+#: inc/widgets/single_image.php:60
+msgid "Alt:"
+msgstr ""
+
+#: inc/widgets/socials.php:7
+msgid "Apus Socials"
+msgstr ""
+
+#: inc/widgets/socials.php:8
+msgid "Socials for website."
+msgstr ""
+
+#: inc/widgets/socials.php:47
+msgid "Select socials:"
+msgstr ""
+
+#: inc/widgets/top_rate.php:11
+msgid "Apus Top Rate Widget"
+msgstr ""
+
+#: inc/widgets/top_rate.php:13
+msgid "The highest rated posts on your site"
+msgstr ""
+
+#: inc/widgets/top_rate.php:44
+msgid "Get most rated:"
+msgstr ""
+
+#: inc/widgets/top_rate.php:53
+msgid "Sort by:"
+msgstr ""
+
+#: inc/widgets/top_rate.php:55
+msgid "Overall bayesian rating (score)"
+msgstr ""
+
+#: inc/widgets/top_rate.php:57
+msgid "Number of votes"
+msgstr ""
+
+#: inc/widgets/top_rate.php:64
+msgid "Descending"
+msgstr ""
+
+#: inc/widgets/top_rate.php:69
+msgid "Ascending"
+msgstr ""
+
+#: inc/widgets/top_rate.php:74
+msgid "Ignore posts older than:"
+msgstr ""
+
+#: inc/widgets/top_rate.php:75
+msgid "days"
+msgstr ""
+
+#: inc/widgets/top_rate.php:77
+msgid "(0 to ignore date)"
+msgstr ""
+
+#: inc/widgets/top_rate.php:81
+msgid "Limit:"
+msgstr ""
+
+#: inc/widgets/vertical_menu.php:7
+msgid "Apus Vertical Menu Widget"
+msgstr ""
+
+#: inc/widgets/vertical_menu.php:8
+msgid "Show Vertical Menu"
+msgstr ""
+
+#: inc/widgets/vertical_menu.php:44
+msgid "--- Select Menu ---"
+msgstr ""
+
+#: inc/widgets/video.php:9
+msgid "Apus Featured Video Widget"
+msgstr ""
+
+#: inc/widgets/video.php:11
+msgid "Show Featured video"
+msgstr ""
+
+#: inc/widgets/video.php:39
+msgid "Video link:"
+msgstr ""
+
+#: inc/widgets/video.php:43
+msgid ""
+"Support video from Youtube and Vimeo link. Ex: https://www.youtube.com/watch?"
+"v=sd0grLQ4voU"
+msgstr ""
+
+#: inc/widgets/video.php:46
+msgid "Video name:"
+msgstr ""
+
+#: inc/widgets/video.php:51
+msgid "Video width:"
+msgstr ""
+
+#: inc/widgets/woo-price-filter.php:12
+msgid ""
+"Shows a price filter list in a widget which lets you narrow down the list of "
+"shown products when viewing product categories."
+msgstr ""
+
+#: inc/widgets/woo-price-filter.php:14
+msgid "WooCommerce Price Filter List"
+msgstr ""
+
+#: inc/widgets/woo-price-filter.php:18
+msgid "Filter by price"
+msgstr ""
+
+#: inc/widgets/woo-price-filter.php:27
+msgid "Price range size"
+msgstr ""
+
+#: inc/widgets/woo-price-filter.php:35
+msgid "Max price ranges"
+msgstr ""
+
+#: inc/widgets/woo-price-filter.php:40
+msgid "Hide empty price ranges"
+msgstr ""
+
+#: inc/widgets/woo-product-sorting.php:13
+msgid "Display a product sorting list."
+msgstr ""
+
+#: inc/widgets/woo-product-sorting.php:15
+msgid "WooCommerce Product Sorting"
+msgstr ""
+
+#: inc/widgets/woo-product-sorting.php:19
+msgid "Sort By"
+msgstr ""
+
+#: list_comments.php:17
+msgid "%1$s"
+msgstr ""
+
+#: list_comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: list_comments.php:27
+msgid " Reply"
+msgstr ""
+
+#: page-templates/parts/posts-releated.php:32
+msgid "Related Posts"
+msgstr ""
+
+#: page-templates/parts/productsearchform.php:7
+msgid "Type here..."
+msgstr ""
+
+#: page-templates/parts/sharebox.php:10
+msgid "Share on facebook"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:17
+msgid "Share on Twitter"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:24
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:31
+msgid "Share on Tumblr"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:39
+msgid "Share on Google plus"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:47
+msgid "Share on Pinterest"
+msgstr ""
+
+#: post-formats/content-none.php:13
+msgid "Oops!"
+msgstr ""
+
+#: post-formats/content-none.php:13
+msgid "Sorry, but your search returned no results!"
+msgstr ""
+
+#: post-formats/content-none.php:15
+msgid "Try again please, use the search form below."
+msgstr ""
+
+#: post-formats/single/_single.php:9
+msgid "By: "
+msgstr ""
+
+#: post-formats/single/_single.php:10
+msgid "on "
+msgstr ""
+
+#: post-formats/single/_single.php:54
+msgid "Pages:"
+msgstr ""
+
+#: post-formats/single/_single.php:58
+msgid "Page"
+msgstr ""
+
+#: searchform.php:13 widgets/search.php:17
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:45
+msgid "Sidebar"
+msgstr ""
+
+#: single.php:38 single.php:39
+msgid "Newer"
+msgstr ""
+
+#: single.php:41 single.php:42
+msgid "Older"
+msgstr ""
+
+#: vc_templates/apus_categoriestabs.php:45 woocommerce/loop/pagination.php:32
+msgid "Load More"
+msgstr ""
+
+#: vc_templates/apus_newsletter.php:28
+msgid "Please create a newsletter form from Mailchip plugins"
+msgstr ""
+
+#: vc_templates/apus_socials_link.php:6
+msgid "Twitter"
+msgstr ""
+
+#: vc_templates/apus_socials_link.php:7
+msgid "Youtube"
+msgstr ""
+
+#: vc_templates/apus_socials_link.php:7
+msgid "Pinterest"
+msgstr ""
+
+#: vc_templates/apus_socials_link.php:8
+msgid "Google Plus"
+msgstr ""
+
+#: vc_templates/apus_socials_link.php:8
+msgid "Instagram"
+msgstr ""
+
+#: vc_templates/apus_video.php:22
+msgid "Play Video"
+msgstr ""
+
+#: vc_templates/apus_video.php:27
+msgid "Join Us!"
+msgstr ""
+
+#: vc_templates/testimonial/testimonial-v1.php:16
+#: vc_templates/testimonial/testimonial-v2.php:17
+msgid "%s"
+msgstr ""
+
+#: widgets/recent-comment.php:24
+msgid "says"
+msgstr ""
+
+#: widgets/video.php:18
+msgid "Video error!"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:104 woocommerce/cart/mini-cart.php:71
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-button-header-left.php:5
+#: woocommerce/cart/mini-cart-button.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "Your Cart is Currently Empty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:90
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/checkout/review-order.php:72
+#: woocommerce/content-product-cart-modal.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:102
+#: woocommerce/content-product-cart-modal.php:64
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:103
+#: woocommerce/content-product-cart-modal.php:65
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:38
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:63
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:119
+#: woocommerce/myaccount/my-orders.php:37
+#: woocommerce/myaccount/my-orders.php:60
+msgid "Total"
+msgstr ""
+
+#: woocommerce/content-product-cart-modal.php:35
+msgid "Product successfully added to your shopping cart"
+msgstr ""
+
+#: woocommerce/content-product-cart-modal.php:57
+msgid "There is %d item in your cart"
+msgid_plural "There are %d items in your cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/content-product-cart-modal.php:79
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/content-shop_header.php:25
+msgid "Category: "
+msgstr ""
+
+#: woocommerce/content-shop_header.php:47
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/content-shop_header.php:47
+msgid "Filter "
+msgstr ""
+
+#: woocommerce/content-shop_header.php:61 woocommerce/loop/orderby.php:9
+msgid "Order By: "
+msgstr ""
+
+#: woocommerce/content-shop_results_bar.php:12
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/content-shop_results_bar.php:17
+msgid "Products tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/content-shop_results_bar.php:38
+msgid "Filters (%s)"
+msgstr ""
+
+#: woocommerce/item-product/inner-list.php:62
+msgid "Quick view"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:33
+msgid "All products loaded."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:42
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:50
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:21
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:25
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:29
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:33
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:35
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:39
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:24
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+msgid "sign in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+#: woocommerce/myaccount/form-login.php:117
+msgid "or"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "CREATE AN ACCOUNT"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:119
+msgid "SIGN IN"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:33
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:37
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+#: woocommerce/wishlist-view.php:41
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:54
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:61
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:77 woocommerce/wishlist-view.php:45
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:83
+msgid "View"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:34
+msgid "Clear "
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:33
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:39
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:48
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:49
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:45
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#: woocommerce/single-product-reviews.php:80
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "submit review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Message"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:32
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:101
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:113
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:125
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:137
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:140
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:143
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:157 woocommerce/wishlist-view.php:165
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:175
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:192
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:200 woocommerce/wishlist-view.php:246
+msgid "Ask for an estimate"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:236
+msgid "Your email"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Maison"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://apusthemes.com/maison"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Maison is clean theme, it's used Apus Framework."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ApusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Default"
+msgstr ""
