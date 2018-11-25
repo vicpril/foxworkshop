@@ -10,16 +10,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: fox <foxworkshop28@gmail.com>\n"
 "Language-Team: Русский\n"
-"PO-Revision-Date: 2018-11-24 10:23+0000\n"
+"PO-Revision-Date: 2018-11-25 07:49+0000\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
 "n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.2.0; wp-4.9.8"
-
-#: Read More
-msgid "Read More"
-msgstr "Читать"
 
 #: comments.php:26
 msgid "0 Comment"
@@ -1243,7 +1239,7 @@ msgstr ""
 
 #: inc/vendors/redux-framework/redux-config.php:466
 msgid "Show Quick View"
-msgstr ""
+msgstr "Быстрый просмотр"
 
 #: inc/vendors/redux-framework/redux-config.php:472
 msgid "Product Image"
@@ -2374,15 +2370,15 @@ msgstr ""
 
 #: inc/vendors/woocommerce/functions.php:619
 msgid "Add to Wishlist"
-msgstr ""
+msgstr "Добавить в список желаний"
 
 #: inc/vendors/woocommerce/functions.php:623
 msgid "Wishlisted"
-msgstr ""
+msgstr "Желаемый"
 
 #: inc/vendors/woocommerce/functions.php:658
 msgid "View More"
-msgstr ""
+msgstr "Смотреть еще"
 
 #: inc/vendors/woocommerce/functions.php:659
 #: vc_templates/apus_categoriestabs.php:46
@@ -2958,72 +2954,72 @@ msgstr ""
 
 #: woocommerce/cart/cart.php:128
 msgid "Coupon"
-msgstr ""
+msgstr "Купон"
 
 #: woocommerce/cart/cart.php:128
 msgid "Coupon code"
-msgstr ""
+msgstr "Код купона"
 
 #: woocommerce/cart/cart.php:128
 msgid "Apply Coupon"
-msgstr ""
+msgstr "Применить купон"
 
 #: woocommerce/cart/cart.php:134
 msgid "Update Cart"
-msgstr ""
+msgstr "Обновить корзину"
 
 #: woocommerce/cart/cross-sells.php:40
 msgid "You may be interested in&hellip;"
-msgstr ""
+msgstr "Вас также может заинтересовать&hellip;"
 
 #: woocommerce/cart/mini-cart-button-header-left.php:5
 #: woocommerce/cart/mini-cart-button.php:4
 msgid "View your shopping cart"
-msgstr ""
+msgstr "Посмотреть корзину"
 
 #: woocommerce/cart/mini-cart.php:88
 msgid "Your Cart is Currently Empty"
-msgstr ""
+msgstr "Ваша корзина пока пуста"
 
 #: woocommerce/cart/mini-cart.php:90
 msgid "Continue shopping"
-msgstr ""
+msgstr "Продолжить покупки"
 
 #: woocommerce/cart/mini-cart.php:97 woocommerce/checkout/review-order.php:72
 #: woocommerce/content-product-cart-modal.php:60
 msgid "Subtotal"
-msgstr ""
+msgstr "Подытог"
 
 #: woocommerce/cart/mini-cart.php:102
 #: woocommerce/content-product-cart-modal.php:64
 msgid "View Cart"
-msgstr ""
+msgstr "Просмотр корзины"
 
 #: woocommerce/cart/mini-cart.php:103
 #: woocommerce/content-product-cart-modal.php:65
 msgid "Checkout"
-msgstr ""
+msgstr "Оформление заказа"
 
 #: woocommerce/cart/proceed-to-checkout-button.php:26
 msgid "Proceed to Checkout"
-msgstr ""
+msgstr "Оформить заказ"
 
 #: woocommerce/checkout/form-checkout.php:20
 msgid "You must be logged in to checkout."
-msgstr ""
+msgstr "Вам необходимо авторизоваться для оформления заказа."
 
 #: woocommerce/checkout/form-checkout.php:55
 msgid "Your order"
-msgstr ""
+msgstr "Ваш заказ"
 
 #: woocommerce/checkout/form-shipping.php:32
 #: woocommerce/myaccount/my-address.php:20
 msgid "Shipping Address"
-msgstr ""
+msgstr "Адрес доставки"
 
 #: woocommerce/checkout/form-shipping.php:38
 msgid "Ship to a different address?"
-msgstr ""
+msgstr "Доставка по другому адресу?"
 
 #: woocommerce/checkout/form-shipping.php:63
 #: woocommerce/single-product/tabs/additional-information.php:24
@@ -3050,13 +3046,13 @@ msgstr ""
 
 #: woocommerce/checkout/payment.php:42
 msgid "Update totals"
-msgstr ""
+msgstr "Обновить итог"
 
 #: woocommerce/checkout/review-order.php:119
 #: woocommerce/myaccount/my-orders.php:37
 #: woocommerce/myaccount/my-orders.php:60
 msgid "Total"
-msgstr ""
+msgstr "Итог"
 
 #: woocommerce/content-product-cart-modal.php:35
 msgid "Product successfully added to your shopping cart"
@@ -3103,7 +3099,7 @@ msgstr ""
 
 #: woocommerce/item-product/inner-list.php:62
 msgid "Quick view"
-msgstr ""
+msgstr "Быстрый просмотр"
 
 #: woocommerce/loop/pagination.php:33
 msgid "All products loaded."
@@ -3135,23 +3131,23 @@ msgstr "Email"
 
 #: woocommerce/myaccount/form-edit-account.php:33
 msgid "Password Change"
-msgstr ""
+msgstr "Смена пароля"
 
 #: woocommerce/myaccount/form-edit-account.php:35
 msgid "Current Password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Действующий пароль (не заполняйте, чтобы оставить прежний)"
 
 #: woocommerce/myaccount/form-edit-account.php:39
 msgid "New Password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Новый пароль (не заполняйте, чтобы оставить прежний)"
 
 #: woocommerce/myaccount/form-edit-account.php:43
 msgid "Confirm New Password"
-msgstr ""
+msgstr "Подтвердите новый пароль"
 
 #: woocommerce/myaccount/form-edit-account.php:51
 msgid "Save changes"
-msgstr ""
+msgstr "Сохранить изменения"
 
 #: woocommerce/myaccount/form-login.php:24
 msgid "Login"
@@ -3237,12 +3233,12 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:17
 msgid "My Addresses"
-msgstr ""
+msgstr "Мои адреса"
 
 #: woocommerce/myaccount/my-address.php:19
 #: woocommerce/myaccount/my-address.php:25
 msgid "Billing Address"
-msgstr ""
+msgstr "Платёжный адрес"
 
 #: woocommerce/myaccount/my-address.php:23
 msgid "My Address"
@@ -3251,10 +3247,11 @@ msgstr ""
 #: woocommerce/myaccount/my-address.php:35
 msgid "The following addresses will be used on the checkout page by default."
 msgstr ""
+"Следующие адреса будут использованы при оформлении заказов по-умолчанию."
 
 #: woocommerce/myaccount/my-address.php:67
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Вы пока не указали этот тип адреса."
 
 #: woocommerce/myaccount/my-orders.php:26
 msgid "Recent Orders"
@@ -3302,7 +3299,7 @@ msgstr ""
 
 #: woocommerce/single-product/related.php:42
 msgid "Related Products"
-msgstr ""
+msgstr "Похожие товары"
 
 #: woocommerce/single-product/review.php:33
 msgid "Your comment is awaiting approval"
@@ -3326,7 +3323,7 @@ msgstr ""
 
 #: woocommerce/single-product/up-sells.php:45
 msgid "You may also like&hellip;"
-msgstr ""
+msgstr "Возможно Вас также заинтересует&hellip;"
 
 #: woocommerce/single-product-reviews.php:49
 msgid "There are no reviews yet."
@@ -3432,7 +3429,7 @@ msgstr ""
 
 #: woocommerce/wishlist-view.php:175
 msgid "No products were added to the wishlist"
-msgstr ""
+msgstr "Товары в список желание еще не добавлены"
 
 #: woocommerce/wishlist-view.php:192
 msgid "Add the selected products to the cart"
