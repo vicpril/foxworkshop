@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Art WooCommerce Russian Region
+ * Plugin Name:       Art WooCommerce Russian Region + Change Checkout fields
  * Plugin URI:        https://wpruse.ru/?p=2609
  * Description:       Плагин под WooCommerce.  Подключает регионы для России в настройках доставки и на странице оформления заказа
  * Version:           1.0
@@ -14,10 +14,67 @@
  * WC requires at least: 3.3.0
  * WC tested up to: 3.3.5
  */
+
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
-add_filter( 'woocommerce_states', 'awrr_states_russia' );
+
+
+// Ovveride fields
+
+add_filter( 'woocommerce_default_address_fields' , 'custom_override_default_address_fields' );
+
+// Our hooked in function - $address_fields is passed via the filter!
+function custom_override_default_address_fields( $address_fields ) {
+
+	$address_fields['address_1']['required'] = false;
+	$address_fields['city']['required'] = false;
+	$address_fields['state']['required'] = false;
+	$address_fields['postcode']['required'] = false;
+	// $address_fields['country']['required'] = false;
+
+
+
+    return $address_fields;
+}
+
+
+add_filter( 'woocommerce_checkout_fields' , 'custom_override_checkout_fields' );
+
+// Our hooked in function - $fields is passed via the filter!
+function custom_override_checkout_fields( $fields ) {
+	unset($fields['billing']['billing_last_name']);
+	unset($fields['billing']['billing_company']);
+	unset($fields['billing']['billing_address_2']);
+	unset($fields['billing']['billing_city']);
+	unset($fields['billing']['billing_postcode']);
+	// unset($fields['billing']['billing_country']);
+	unset($fields['billing']['billing_state']);
+	unset($fields['billing']['billing_company']);
+
+	$fields['billing']['billing_email']['priority'] = 10;
+	$fields['billing']['billing_phone']['priority'] = 20;
+
+	$fields['billing']['billing_first_name']['priority'] = 30;
+	$fields['billing']['billing_first_name']['label'] = 'Ф.И.О.';
+	$fields['billing']['billing_first_name']['class'][0] = 'form-row-wide';
+	
+	$fields['billing']['billing_address_1']['priority'] = 40;
+	// $fields['billing']['billing_address_1']['required'] = false;
+
+	// $fields['billing']['billing_country']['class'][] = 'hidden';
+
+
+	// var_dump($fields);
+
+	return $fields;
+}
+
+
+
+
+
+// add_filter( 'woocommerce_states', 'awrr_states_russia' );
 function awrr_states_russia( $states ) {
 	$states['RU'] = array(
 		"МОСКВА"                                 => " Москва",
@@ -220,3 +277,30 @@ function awrr_states_russia( $states ) {
 	return $states;
 }
 
+
+
+
+
+function custom_checkbox_checker () 
+	{
+		if ( is_checkout() ) 
+		{
+			wp_enqueue_script( 'jquery' ); ?>
+
+			<script>	
+				jQuery(document).ready( function (e) 
+					{
+						jQuery('#billing_state').change(function(e, params){
+
+						jQuery('body').trigger('update_checkout');
+
+					});
+				});
+			</script>	
+    
+<?php }
+
+    }
+
+    // add_action( 'wp_footer', 'custom_checkbox_checker', 50 );
+	

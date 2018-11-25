@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: fox <foxworkshop28@gmail.com>\n"
 "Language-Team: Русский\n"
-"PO-Revision-Date: 2018-11-25 07:48+0000\n"
+"PO-Revision-Date: 2018-11-25 23:15+0000\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
 "n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
@@ -736,7 +736,7 @@ msgstr ""
 #: inc/template-tags.php:94
 msgctxt "Used before category names."
 msgid "Categories"
-msgstr ""
+msgstr "Категории"
 
 #: inc/template-tags.php:102
 msgctxt "Used before tag names."
@@ -1408,7 +1408,7 @@ msgstr ""
 #: inc/vendors/visualcomposer/vc-map-theme.php:911
 #: inc/vendors/visualcomposer/vc-map-theme.php:972
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #: inc/vendors/redux-framework/redux-config.php:734
 #: inc/vendors/visualcomposer/vc-map-theme.php:40
@@ -2099,7 +2099,7 @@ msgstr ""
 #: inc/vendors/visualcomposer/vc-map-theme.php:511
 #: inc/vendors/visualcomposer/vc-map-theme.php:625
 msgid "Short Description"
-msgstr ""
+msgstr "Краткое описание"
 
 #: inc/vendors/visualcomposer/vc-map-theme.php:518
 msgid "Socials Settings"
@@ -2449,7 +2449,7 @@ msgstr ""
 
 #: inc/vendors/woocommerce/vc-map.php:45
 msgid "Recent Review"
-msgstr ""
+msgstr "Последние отзывы"
 
 #: inc/vendors/woocommerce/vc-map.php:49
 msgid "Apus Products Categories Tabs "
@@ -2595,7 +2595,7 @@ msgstr ""
 
 #: inc/widgets/popup_newsletter.php:38 inc/widgets/single_image.php:43
 msgid "Description:"
-msgstr ""
+msgstr "Описание:"
 
 #: inc/widgets/popup_newsletter.php:42 inc/widgets/single_image.php:47
 msgid "Image:"
@@ -2998,7 +2998,7 @@ msgstr "Просмотр корзины"
 #: woocommerce/cart/mini-cart.php:103
 #: woocommerce/content-product-cart-modal.php:65
 msgid "Checkout"
-msgstr "Оформить заказ"
+msgstr "Оформление заказа"
 
 #: woocommerce/cart/proceed-to-checkout-button.php:26
 msgid "Proceed to Checkout"
@@ -3024,7 +3024,7 @@ msgstr "Доставка по другому адресу?"
 #: woocommerce/checkout/form-shipping.php:63
 #: woocommerce/single-product/tabs/additional-information.php:24
 msgid "Additional Information"
-msgstr ""
+msgstr "Дополнительная информация"
 
 #: woocommerce/checkout/payment.php:34
 msgid ""
@@ -3319,7 +3319,7 @@ msgstr ""
 
 #: woocommerce/single-product/tabs/description.php:24
 msgid "Product Description"
-msgstr ""
+msgstr "Описание товара"
 
 #: woocommerce/single-product/up-sells.php:45
 msgid "You may also like&hellip;"
@@ -3359,7 +3359,7 @@ msgstr ""
 
 #: woocommerce/single-product-reviews.php:72
 msgid "Add a review"
-msgstr ""
+msgstr "Добавить отзыв"
 
 #: woocommerce/single-product-reviews.php:72
 msgid "Be the first to review &ldquo;%s&rdquo;"
