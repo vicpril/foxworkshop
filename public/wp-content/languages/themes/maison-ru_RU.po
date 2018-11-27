@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: fox <foxworkshop28@gmail.com>\n"
 "Language-Team: Русский\n"
-"PO-Revision-Date: 2018-11-27 00:01+0000\n"
+"PO-Revision-Date: 2018-11-27 22:31+0000\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
 "n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
@@ -267,7 +267,7 @@ msgstr ""
 
 #: inc/functions-frontend.php:219
 msgid "Home"
-msgstr "Главная"
+msgstr "Foxworkshop"
 
 #: inc/functions-frontend.php:267
 msgid "Our Campaigns"
@@ -2383,7 +2383,7 @@ msgstr "Смотреть еще"
 #: inc/vendors/woocommerce/functions.php:659
 #: vc_templates/apus_categoriestabs.php:46
 msgid "All Products Loaded"
-msgstr ""
+msgstr "Все товары отображены"
 
 #: inc/vendors/woocommerce/functions.php:689
 msgid "Close (Esc)"
@@ -2469,7 +2469,7 @@ msgstr ""
 
 #: inc/vendors/woocommerce/vc-map.php:62 inc/vendors/woocommerce/vc-map.php:143
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 #: inc/vendors/woocommerce/vc-map.php:75
 msgid "Get Products By"
@@ -2485,7 +2485,7 @@ msgstr ""
 
 #: inc/vendors/woocommerce/vc-map.php:107
 msgid "Show Load More"
-msgstr ""
+msgstr "Показать больше"
 
 #: inc/vendors/woocommerce/vc-map.php:112
 #: inc/vendors/woocommerce/vc-map.php:168
@@ -2887,7 +2887,7 @@ msgstr "К предыдущей"
 
 #: vc_templates/apus_categoriestabs.php:45 woocommerce/loop/pagination.php:32
 msgid "Load More"
-msgstr ""
+msgstr "Показать больше"
 
 #: vc_templates/apus_newsletter.php:28
 msgid "Please create a newsletter form from Mailchip plugins"
@@ -3071,7 +3071,7 @@ msgstr ""
 
 #: woocommerce/content-shop_header.php:25
 msgid "Category: "
-msgstr ""
+msgstr "Категория:"
 
 #: woocommerce/content-shop_header.php:47
 msgid "Filter"
@@ -3103,7 +3103,7 @@ msgstr "Быстрый просмотр"
 
 #: woocommerce/loop/pagination.php:33
 msgid "All products loaded."
-msgstr ""
+msgstr "Все товары отображены."
 
 #: woocommerce/myaccount/form-add-payment-method.php:42
 msgid ""

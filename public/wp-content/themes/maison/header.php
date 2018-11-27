@@ -47,7 +47,7 @@
 
 	<?php $header = apply_filters( 'maison_get_header_layout', maison_get_config('header_type') );
 		if ( empty($header) ) {
-			$header = 'v4';
+			$header = 'v2';
 		}
 	?>
 	<?php get_template_part( 'headers/'.$header ); ?>

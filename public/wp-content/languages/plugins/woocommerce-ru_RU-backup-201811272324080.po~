@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-11-25 07:54+0000\n"
+"PO-Revision-Date: 2018-11-27 23:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -9430,7 +9430,7 @@ msgstr "Конечная точка для страницы Мой аккаун�
 #. translators: 1: order number 2: order date 3: order status
 #: templates/myaccount/view-order.php:29 templates/order/tracking.php:27
 msgid "Order #%1$s was placed on %2$s and is currently %3$s."
-msgstr "Заказ #%1$s был оформлен %2$s и сейчас %3$s."
+msgstr "Заказ #%1$s был оформлен %2$s и сейчас в статусе: %3$s."
 
 #: templates/myaccount/payment-methods.php:73
 msgid "No saved methods found."
@@ -14979,7 +14979,7 @@ msgstr "Подтвердить заказ"
 #: includes/wc-template-functions.php:2052
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr "Главная"
+msgstr "Foxworkshop"
 
 #. translators: %s: reviews count
 #: includes/wc-template-functions.php:1667
@@ -16971,7 +16971,7 @@ msgstr "my-account"
 #: includes/class-wc-install.php:419
 msgctxt "Page slug"
 msgid "checkout"
-msgstr "Оформление заказа"
+msgstr "checkout"
 
 #: includes/class-wc-install.php:414
 msgctxt "Page slug"
