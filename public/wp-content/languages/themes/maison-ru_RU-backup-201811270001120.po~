@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: fox <foxworkshop28@gmail.com>\n"
 "Language-Team: Русский\n"
-"PO-Revision-Date: 2018-11-25 23:15+0000\n"
+"PO-Revision-Date: 2018-11-27 00:01+0000\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
 "n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
@@ -198,7 +198,7 @@ msgstr ""
 #: inc/vendors/visualcomposer/vc-map-theme.php:850
 #: inc/vendors/woocommerce/woo-custom.php:33
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 #: inc/customizer.php:129 inc/vendors/cmb2/footer.php:13
 msgid "Dark"
@@ -1824,7 +1824,7 @@ msgstr ""
 #: inc/vendors/visualcomposer/vc-map-theme.php:146
 #: inc/vendors/visualcomposer/vc-map-theme.php:723
 msgid "Default "
-msgstr ""
+msgstr "По умолчанию"
 
 #: inc/vendors/visualcomposer/vc-map-theme.php:109
 #: inc/vendors/visualcomposer/vc-map-theme.php:147
@@ -2421,7 +2421,7 @@ msgstr ""
 #: inc/vendors/woocommerce/functions.php:879
 #: inc/widgets/woo-price-filter.php:117 inc/widgets/woo-price-filter.php:119
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 #: inc/vendors/woocommerce/vc-map.php:6
 msgid " --- Choose a Category --- "
@@ -2514,23 +2514,23 @@ msgstr ""
 
 #: inc/vendors/woocommerce/woo-custom.php:34
 msgid "Popularity"
-msgstr ""
+msgstr "По популярности"
 
 #: inc/vendors/woocommerce/woo-custom.php:35 inc/widgets/top_rate.php:56
 msgid "Average rating"
-msgstr ""
+msgstr "По среднему рейтингу"
 
 #: inc/vendors/woocommerce/woo-custom.php:36
 msgid "Newness"
-msgstr ""
+msgstr "По новизне"
 
 #: inc/vendors/woocommerce/woo-custom.php:37
 msgid "Price: Low to High"
-msgstr ""
+msgstr "По цене: по возрастанию"
 
 #: inc/vendors/woocommerce/woo-custom.php:38
 msgid "Price: High to Low"
-msgstr ""
+msgstr "По цене: по убыванию"
 
 #: inc/vendors/woocommerce/woo-custom.php:102
 msgid "Add"
@@ -2687,7 +2687,7 @@ msgstr ""
 
 #: inc/widgets/top_rate.php:53
 msgid "Sort by:"
-msgstr ""
+msgstr "Сортировать"
 
 #: inc/widgets/top_rate.php:55
 msgid "Overall bayesian rating (score)"
@@ -2771,7 +2771,7 @@ msgstr ""
 
 #: inc/widgets/woo-price-filter.php:18
 msgid "Filter by price"
-msgstr ""
+msgstr "Фильтровать по цене"
 
 #: inc/widgets/woo-price-filter.php:27
 msgid "Price range size"
@@ -2795,7 +2795,7 @@ msgstr ""
 
 #: inc/widgets/woo-product-sorting.php:19
 msgid "Sort By"
-msgstr ""
+msgstr "Сортировать"
 
 #: list_comments.php:17
 msgid "%1$s"
@@ -2855,11 +2855,11 @@ msgstr "Попробуйте еще раз."
 
 #: post-formats/single/_single.php:9
 msgid "By: "
-msgstr ""
+msgstr "Опубликовано:"
 
 #: post-formats/single/_single.php:10
 msgid "on "
-msgstr ""
+msgstr "- "
 
 #: post-formats/single/_single.php:54
 msgid "Pages:"
@@ -3075,15 +3075,15 @@ msgstr ""
 
 #: woocommerce/content-shop_header.php:47
 msgid "Filter"
-msgstr ""
+msgstr "Фильтровать"
 
 #: woocommerce/content-shop_header.php:47
 msgid "Filter "
-msgstr ""
+msgstr "Фильтровать"
 
 #: woocommerce/content-shop_header.php:61 woocommerce/loop/orderby.php:9
 msgid "Order By: "
-msgstr ""
+msgstr "Сортировка по:"
 
 #: woocommerce/content-shop_results_bar.php:12
 msgid "Search results for &ldquo;%s&rdquo;"
@@ -3095,7 +3095,7 @@ msgstr ""
 
 #: woocommerce/content-shop_results_bar.php:38
 msgid "Filters (%s)"
-msgstr ""
+msgstr "Фильтры"
 
 #: woocommerce/item-product/inner-list.php:62
 msgid "Quick view"
@@ -3151,42 +3151,42 @@ msgstr "Сохранить изменения"
 
 #: woocommerce/myaccount/form-login.php:24
 msgid "Login"
-msgstr ""
+msgstr "Авторизация"
 
 #: woocommerce/myaccount/form-login.php:30
 msgid "Username or email address"
-msgstr ""
+msgstr "Имя пользователя или email"
 
 #: woocommerce/myaccount/form-login.php:34
 #: woocommerce/myaccount/form-login.php:94
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: woocommerce/myaccount/form-login.php:44
 msgid "Remember me"
-msgstr ""
+msgstr "Запомнить меня"
 
 #: woocommerce/myaccount/form-login.php:47
 msgid "Lost your password?"
-msgstr ""
+msgstr "Забыли свой пароль?"
 
 #: woocommerce/myaccount/form-login.php:50
 msgid "sign in"
-msgstr ""
+msgstr "войти"
 
 #: woocommerce/myaccount/form-login.php:60
 #: woocommerce/myaccount/form-login.php:117
 msgid "or"
-msgstr ""
+msgstr "или"
 
 #: woocommerce/myaccount/form-login.php:62
 msgid "CREATE AN ACCOUNT"
-msgstr ""
+msgstr "Зарегистрироваться"
 
 #: woocommerce/myaccount/form-login.php:72
 #: woocommerce/myaccount/form-login.php:108
 msgid "Register"
-msgstr ""
+msgstr "Регистрация"
 
 #: woocommerce/myaccount/form-login.php:80
 msgid "Username"
@@ -3198,13 +3198,15 @@ msgstr ""
 
 #: woocommerce/myaccount/form-login.php:119
 msgid "SIGN IN"
-msgstr ""
+msgstr "Войти под вашей учетной записью"
 
 #: woocommerce/myaccount/form-lost-password.php:21
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr ""
+"Забыли свой пароль? Укажите свой Email или имя пользователя. Ссылку на "
+"создание нового пароля вы получите по электронной почте."
 
 #: woocommerce/myaccount/form-lost-password.php:24
 msgid "Username or email"
@@ -3212,19 +3214,19 @@ msgstr ""
 
 #: woocommerce/myaccount/form-lost-password.php:30
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Введите новый пароль ниже."
 
 #: woocommerce/myaccount/form-lost-password.php:33
 msgid "New password"
-msgstr ""
+msgstr "Новый пароль"
 
 #: woocommerce/myaccount/form-lost-password.php:37
 msgid "Re-enter new password"
-msgstr ""
+msgstr "Повторите новый пароль"
 
 #: woocommerce/myaccount/form-lost-password.php:50
 msgid "Reset Password"
-msgstr ""
+msgstr "Сбросить пароль"
 
 #: woocommerce/myaccount/form-lost-password.php:50
 #: woocommerce/wishlist-view.php:41
@@ -3242,7 +3244,7 @@ msgstr "Платёжный адрес"
 
 #: woocommerce/myaccount/my-address.php:23
 msgid "My Address"
-msgstr ""
+msgstr "Мои адрес"
 
 #: woocommerce/myaccount/my-address.php:35
 msgid "The following addresses will be used on the checkout page by default."
@@ -3376,7 +3378,7 @@ msgstr ""
 
 #: woocommerce/single-product-reviews.php:82
 msgid "submit review"
-msgstr ""
+msgstr "Отправить отзыв"
 
 #: woocommerce/single-product-reviews.php:88
 msgid "You must be <a href=\"%s\">logged in</a> to post a review."

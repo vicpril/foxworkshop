@@ -6,6 +6,18 @@
             <div class="date">
                 <?php the_time( get_option('date_format', 'M d, Y') ); ?>
             </div>
+
+                <?php
+                if (get_the_category( )) {
+                ?>
+                    <h5 class="entry-category">
+                        <?php the_category( '&bull;' ); ?>
+                        
+                    </h5>
+                <?php
+            }
+                ?>
+
              <?php
                 if (get_the_title()) {
                 ?>

@@ -36,6 +36,8 @@
                                     <span class="show-top-menu"><i class="ion-android-menu"></i></span>
                                 </div>
                             <?php endif; ?>
+
+                           
                             <?php if ( defined('MAISON_WOOCOMMERCE_ACTIVED') && maison_get_config('show_cartbtn') ): ?>
                                 <div class="pull-right">
                                     <!-- Setting -->
@@ -44,6 +46,13 @@
                                     </div>
                                 </div>
                             <?php endif; ?>
+                            
+                             <?php if ( has_nav_menu( 'top-menu' ) ): ?>
+                                <div class="pull-right menu-top">
+                                    <span class="" style="font-size: 32px;  color: #000; line-height: 1;"><a href="<?php home_url(); ?>/account" class="ion-android-people"></a></span>
+                                </div>
+                            <?php endif; ?>
+
                             <?php if ( maison_get_config('show_searchform') ): ?>
                                 <div class="pull-right">
                                     <div class="apus-search-top dropdown clearfix">

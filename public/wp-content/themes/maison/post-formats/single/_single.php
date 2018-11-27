@@ -6,8 +6,14 @@ global $post;
     <div class="top-info">
         <div class="entry-meta">
             <div class="meta">
-                <span class="author"><?php echo esc_html__('By: ','maison'); the_author_posts_link(); ?></span>
-                <span class="date"><?php echo esc_html__('on ','maison'); ?> <?php the_time( get_option('date_format', 'M d, Y') ); ?></span> 
+                <span class="author"><?php echo esc_html__('By: ','maison'); 
+                // the_author_posts_link(); ?>
+                    
+                </span>
+                <span class="date">
+                    <?php 
+                    // echo esc_html__('on ','maison'); 
+                    ?> <?php the_time( get_option('date_format', 'M d, Y') ); ?></span> 
             </div>
         </div>
         <?php if (get_the_title()) { ?>
