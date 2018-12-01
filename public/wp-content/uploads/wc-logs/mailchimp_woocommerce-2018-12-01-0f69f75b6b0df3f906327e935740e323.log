@@ -42,3 +42,37 @@
 2018-12-01T16:02:29+00:00 NOTICE abandoned_cart.success :: email: prilepinva@gmail.com :: checkout_url: http://foxworkshop.loc/checkout/?mc_cart_id=45bb5e04d22fb00a27e324c5f72c8839
 2018-12-01T16:04:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #681
 2018-12-01T16:04:07+00:00 NOTICE order_submit.success :: addStoreOrder :: #683 :: email: prilepinva@gmail.com :: landing site http://foxworkshop.loc/wp-admin/ :: abandoned cart deleted [45bb5e04d22fb00a27e324c5f72c8839]
+2018-12-01T11:16:49+00:00 NOTICE order_submit.success :: addStoreOrder :: #684 :: email: prilepinva@gmail.com :: landing site http://foxworkshop.loc/?wc-ajax=get_refreshed_fragments
+2018-12-01T11:16:50+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:25:38+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:25:39+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:25:42+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:25:43+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:26:28+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:26:29+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:27:14+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:27:15+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:28:28+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:28:29+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:29:19+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:29:20+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:30:21+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:30:22+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:30:25+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:30:26+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:30:29+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:30:30+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:30:32+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:30:33+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:30:56+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:30:57+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:31:00+00:00 NOTICE order_submit.success :: updateStoreOrder :: #684 :: email: prilepinva@gmail.com
+2018-12-01T11:31:01+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:52:38+00:00 NOTICE order_submit.success :: updateStoreOrder :: #683 :: email: prilepinva@gmail.com
+2018-12-01T11:52:39+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:52:41+00:00 NOTICE order_submit.success :: updateStoreOrder :: #683 :: email: prilepinva@gmail.com
+2018-12-01T11:52:42+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:54:33+00:00 NOTICE order_submit.success :: updateStoreOrder :: #683 :: email: prilepinva@gmail.com
+2018-12-01T11:54:34+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
+2018-12-01T11:54:37+00:00 NOTICE order_submit.success :: updateStoreOrder :: #683 :: email: prilepinva@gmail.com
+2018-12-01T11:54:38+00:00 ERROR double_opt_in.update :: <p>ADDRESS: Please enter a complete address</p>
