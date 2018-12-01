@@ -1,0 +1,44 @@
+2018-12-01T15:45:46+00:00 NOTICE sync.started :: Starting Sync :: Sat, Dec 1, 2018 8:45 AM
+2018-12-01T15:45:52+00:00 NOTICE product_sync.success :: addStoreProduct :: #655
+2018-12-01T15:45:53+00:00 NOTICE product_sync.success :: addStoreProduct :: #669
+2018-12-01T15:45:54+00:00 NOTICE product_sync.success :: addStoreProduct :: #681
+2018-12-01T15:45:56+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2018-12-01T15:46:05+00:00 ERROR order_submit.error :: addStoreOrder :: 360 :: <p>: Required fields were not provided: lines</p> on 1493 in C:\OSPanel\domains\foxworkshop.loc\public\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-01T15:46:07+00:00 ERROR order_submit.error :: addStoreOrder :: 522 :: <p>: Required fields were not provided: lines</p> on 1493 in C:\OSPanel\domains\foxworkshop.loc\public\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-01T15:46:08+00:00 ERROR order_submit.error :: addStoreOrder :: 536 :: <p>: Required fields were not provided: lines</p> on 1493 in C:\OSPanel\domains\foxworkshop.loc\public\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-01T15:46:11+00:00 NOTICE order_submit.success :: addStoreOrder :: #636 :: email: ASKDJH@DJSHF.FK
+2018-12-01T15:46:13+00:00 NOTICE order_submit.success :: addStoreOrder :: #637 :: email: foxworkshop28@gmail.com
+2018-12-01T15:46:25+00:00 NOTICE order_submit.success :: addStoreOrder :: #638 :: email: foxworkshop28@gmail.com
+2018-12-01T15:46:27+00:00 NOTICE order_submit.success :: addStoreOrder :: #639 :: email: foxworkshop28@gmail.com
+2018-12-01T15:46:29+00:00 NOTICE order_submit.success :: addStoreOrder :: #640 :: email: foxworkshop28@gmail.com
+2018-12-01T15:46:31+00:00 NOTICE order_submit.success :: addStoreOrder :: #641 :: email: prilepinva@gmail.com
+2018-12-01T15:46:33+00:00 NOTICE order_submit.success :: addStoreOrder :: #642 :: email: prilepinva@gmail.com
+2018-12-01T15:46:40+00:00 NOTICE order_submit.success :: addStoreOrder :: #652 :: email: vicpride@gmail.com
+2018-12-01T15:46:42+00:00 NOTICE order_submit.success :: addStoreOrder :: #659 :: email: prilepinva55435@gmail.com
+2018-12-01T15:46:43+00:00 NOTICE order_submit.success :: addStoreOrder :: #680 :: email: prilepinva@gmail.com
+2018-12-01T15:46:47+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2018-12-01T15:46:47+00:00 NOTICE sync.completed :: Finished Sync :: Sat, Dec 1, 2018 8:46 AM
+2018-12-01T15:53:39+00:00 NOTICE sync.started :: Starting Sync :: Sat, Dec 1, 2018 8:53 AM
+2018-12-01T15:53:41+00:00 NOTICE coupon_sync.completed :: Done with the coupon sync.
+2018-12-01T15:53:42+00:00 NOTICE product_sync.success :: addStoreProduct :: #655
+2018-12-01T15:53:44+00:00 NOTICE product_sync.success :: addStoreProduct :: #669
+2018-12-01T15:53:45+00:00 NOTICE product_sync.success :: addStoreProduct :: #681
+2018-12-01T15:53:47+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2018-12-01T15:53:53+00:00 ERROR order_submit.error :: addStoreOrder :: 360 :: <p>: Required fields were not provided: lines</p> on 1493 in C:\OSPanel\domains\foxworkshop.loc\public\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-01T15:53:55+00:00 ERROR order_submit.error :: addStoreOrder :: 522 :: <p>: Required fields were not provided: lines</p> on 1493 in C:\OSPanel\domains\foxworkshop.loc\public\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-01T15:53:56+00:00 ERROR order_submit.error :: addStoreOrder :: 536 :: <p>: Required fields were not provided: lines</p> on 1493 in C:\OSPanel\domains\foxworkshop.loc\public\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-12-01T15:53:58+00:00 NOTICE order_submit.success :: updateStoreOrder :: #636 :: email: ASKDJH@DJSHF.FK
+2018-12-01T15:54:00+00:00 NOTICE order_submit.success :: updateStoreOrder :: #637 :: email: foxworkshop28@gmail.com
+2018-12-01T15:54:11+00:00 NOTICE order_submit.success :: updateStoreOrder :: #638 :: email: foxworkshop28@gmail.com
+2018-12-01T15:54:12+00:00 NOTICE order_submit.success :: updateStoreOrder :: #639 :: email: foxworkshop28@gmail.com
+2018-12-01T15:54:14+00:00 NOTICE order_submit.success :: updateStoreOrder :: #640 :: email: foxworkshop28@gmail.com
+2018-12-01T15:54:16+00:00 NOTICE order_submit.success :: updateStoreOrder :: #641 :: email: prilepinva@gmail.com
+2018-12-01T15:54:18+00:00 NOTICE order_submit.success :: updateStoreOrder :: #642 :: email: prilepinva@gmail.com
+2018-12-01T15:54:25+00:00 NOTICE order_submit.success :: updateStoreOrder :: #652 :: email: vicpride@gmail.com
+2018-12-01T15:54:26+00:00 NOTICE order_submit.success :: updateStoreOrder :: #659 :: email: prilepinva55435@gmail.com
+2018-12-01T15:54:28+00:00 NOTICE order_submit.success :: updateStoreOrder :: #680 :: email: prilepinva@gmail.com
+2018-12-01T15:54:32+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2018-12-01T15:54:32+00:00 NOTICE sync.completed :: Finished Sync :: Sat, Dec 1, 2018 8:54 AM
+2018-12-01T16:02:29+00:00 NOTICE abandoned_cart.success :: email: prilepinva@gmail.com :: checkout_url: http://foxworkshop.loc/checkout/?mc_cart_id=45bb5e04d22fb00a27e324c5f72c8839
+2018-12-01T16:04:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #681
+2018-12-01T16:04:07+00:00 NOTICE order_submit.success :: addStoreOrder :: #683 :: email: prilepinva@gmail.com :: landing site http://foxworkshop.loc/wp-admin/ :: abandoned cart deleted [45bb5e04d22fb00a27e324c5f72c8839]
